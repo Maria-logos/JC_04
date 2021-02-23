@@ -9,7 +9,7 @@ public static void main(String[] args)
 	    short s = 15;
 	    long lng = 555;
 	    float fl = 49.33f;
-	    double dbl = 8.999;
+	    double dbl = 8.9989;
 	    char cr = 'e' ;
 	    
 	    System.out.println("int Min " + Integer.MIN_VALUE);
